@@ -1,6 +1,6 @@
 package dtos;
 
-public class DescriptionProduct {
+public class DescriptionProductDto {
     
     private String name;
     private double price;

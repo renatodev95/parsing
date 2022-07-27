@@ -1,6 +1,6 @@
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
-import dtos.ProdutoKabum;
+import dtos.ProdutoKabumDto;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.junit.jupiter.api.Test;
@@ -8,7 +8,8 @@ import pojos.AuthorPOJO;
 import pojos.BooksPOJO;
 import pojos.DayPOJO;
 import pojos.SimpleTestCaseJsonPOJO;
-import shared.Links;
+import enums.Links;
+import utils.JsonUtil;
 
 import java.io.IOException;
 
@@ -44,14 +45,14 @@ class JsonTest {
     
     @Test
     void parse() throws JsonProcessingException {
-        JsonNode node = Json.parse(simpleTestCaseJsonSource);
+        JsonNode node = JsonUtil.parse(simpleTestCaseJsonSource);
         assertEquals(node.get("title").asText(), "Coder From Scratch");
     }
 
     @Test
     void fromJson() throws JsonProcessingException {
-        JsonNode node = Json.parse(simpleTestCaseJsonSource);
-        SimpleTestCaseJsonPOJO pojo = Json.fromJson(node, SimpleTestCaseJsonPOJO.class);
+        JsonNode node = JsonUtil.parse(simpleTestCaseJsonSource);
+        SimpleTestCaseJsonPOJO pojo = JsonUtil.fromJson(node, SimpleTestCaseJsonPOJO.class);
         assertEquals(pojo.getTitle(), "Coder From Scratch");
     }
 
@@ -59,7 +60,7 @@ class JsonTest {
     void toJson() {
         SimpleTestCaseJsonPOJO pojo = new SimpleTestCaseJsonPOJO();
         pojo.setTitle("Testing 123");
-        JsonNode node = Json.toJson(pojo);
+        JsonNode node = JsonUtil.toJson(pojo);
         assertEquals(node.get("title").asText(), "Testing 123");
     }
 
@@ -67,22 +68,22 @@ class JsonTest {
     void stringfy() throws JsonProcessingException {
         SimpleTestCaseJsonPOJO pojo = new SimpleTestCaseJsonPOJO();
         pojo.setTitle("Testing 123");
-        JsonNode node = Json.toJson(pojo);
-        System.out.println(Json.stringfy(node));
-        System.out.println(Json.prettyPrint(node));
+        JsonNode node = JsonUtil.toJson(pojo);
+        System.out.println(JsonUtil.stringfy(node));
+        System.out.println(JsonUtil.prettyPrint(node));
     }
 
     @Test
     void dayTestScenario1() throws JsonProcessingException {
-        JsonNode node = Json.parse(dayScenario1);
-        DayPOJO pojo = Json.fromJson(node, DayPOJO.class);
+        JsonNode node = JsonUtil.parse(dayScenario1);
+        DayPOJO pojo = JsonUtil.fromJson(node, DayPOJO.class);
         assertEquals("2019-12-25", pojo.getDate().toString());
     }
 
     @Test
     void authorBookTestScenario1() throws JsonProcessingException {
-        JsonNode node = Json.parse(authorBookScenario);
-        AuthorPOJO pojo = Json.fromJson(node, AuthorPOJO.class);
+        JsonNode node = JsonUtil.parse(authorBookScenario);
+        AuthorPOJO pojo = JsonUtil.fromJson(node, AuthorPOJO.class);
         System.out.println("Author" + pojo.getAuthorName());
         for (BooksPOJO book : pojo.getBooks()) {
             System.out.println("Book: " + book.getTitle());
@@ -97,8 +98,8 @@ class JsonTest {
         String json = document.html();
         String stringFinal = "\"scriptLoader\":[]}";
         int lastIndex = stringFinal.length();
-        JsonNode node = Json.parse(json.substring(json.indexOf("{\"props\""), json.indexOf(stringFinal) + lastIndex).trim());
-        ProdutoKabum produtoKabum = Json.fromJson(node, ProdutoKabum.class);
+        JsonNode node = JsonUtil.parse(json.substring(json.indexOf("{\"props\""), json.indexOf(stringFinal) + lastIndex).trim());
+        ProdutoKabumDto produtoKabum = JsonUtil.fromJson(node, ProdutoKabumDto.class);
         System.out.println(produtoKabum.getProps().getPageProps().getInitialZustandState().getDescriptionProduct().getName());
         System.out.println(produtoKabum.getProps().getPageProps().getInitialZustandState().getDescriptionProduct().getPrice());
     }

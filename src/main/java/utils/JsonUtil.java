@@ -1,8 +1,10 @@
+package utils;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
-public class Json {
+public class JsonUtil {
     
     private static final ObjectMapper objectMapper = getDefaultObjectMapper();
 
@@ -17,7 +19,7 @@ public class Json {
         return objectMapper.readTree(src);
     }
     
-    public static <A> A fromJson(JsonNode node, Class<A> clazz) throws JsonProcessingException {
+    public static <T> T fromJson(JsonNode node, Class<T> clazz) throws JsonProcessingException {
         return objectMapper.treeToValue(node, clazz);
     }
     
