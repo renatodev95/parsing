@@ -1,0 +1,804 @@
+{
+  "props": {
+    "pageProps": {
+      "flagBlackFriday": false,
+      "data": {
+        "offerBannerImage": "https://themes.kabum.com.br/conteudo/oferta/108/banner/julho-gamer_descricao.jpg",
+        "productCatalog": "{\"code\":109013,\"productSpecie\":0,\"name\":\"Monitor Gamer Asus TUF 23.8' IPS, Wide, 144 Hz, Full HD, 1ms, FreeSync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG249Q\",\"description\":\"\u003ch2\u003eMonitor Gaming TUF Gaming VG249Q 23,8 polegadas Full HD (1920x1080), 144Hz, IPS, Extreme Low Motion Blur, Adaptive-sync, FreeSync, 1ms (MPRT)\u003c/h2\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003cp\u003eTUF Gaming VG249Q \u0026eacute; um monitor IPS de 23,8 polegadas,\u003cstrong\u003e Full HD (1920x1080)\u003c/strong\u003e, com taxa de atualiza\u0026ccedil;\u0026atilde;o r\u0026aacute;pida de 144Hz projetada para jogadores profissionais e jogabilidade r\u0026aacute;pida. Tamb\u0026eacute;m possui \u003cstrong\u003etempo de resposta de 1ms MPRT\u003c/strong\u003e e \u003cstrong\u003etecnologia Adaptive-Sync\u003c/strong\u003e, para jogabilidade extremamente fluida sem tearing e stuttering.\u003c/p\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003ch2\u003eTela IPS de 23,8 polegadas para amplo \u0026acirc;ngulo de visualiza\u0026ccedil;\u0026atilde;o e melhor reprodu\u0026ccedil;\u0026atilde;o de cores com tempo de Resposta de 144Hz\u003c/h2\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003cp\u003eO \u003cstrong\u003epainel IPS\u003c/strong\u003e de 23,8 polegadas Full HD (1920 x 1080) do TUF Gaming VG249Q oferece visuais impressionantes em amplos \u003cstrong\u003e\u0026acirc;ngulos de vis\u0026atilde;o de 178\u0026ordm;\u003c/strong\u003e, impedindo muitas distor\u0026ccedil;\u0026otilde;es e mudan\u0026ccedil;a de cor, mesmo quando voc\u0026ecirc; est\u0026aacute; visualizando de posi\u0026ccedil;\u0026otilde;es nas extremidades. O TUF Gaming VG249Q possui uma \u003cstrong\u003etaxa de atualiza\u0026ccedil;\u0026atilde;o ultra-r\u0026aacute;pida de 144Hz\u003c/strong\u003e, garantindo que mesmos jogos em ritmo acelerado, reproduzidos nas mais altas configura\u0026ccedil;\u0026otilde;es visuais, pare\u0026ccedil;am suaves e completamente livres de lags. Obtenha vantagem em jogos de tiro em primeira pessoa, corridas, estrat\u0026eacute;gia em tempo real e esportes.\u003c/p\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003ch2\u003eTecnologia Extreme Low Motion Blur e Shadow Boost\u003c/h2\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003cp\u003eApresenta a mais recente \u003cstrong\u003etecnologia Extreme Low Motion Blur\u003c/strong\u003e exclusiva da ASUS, que atinge 1ms MPRT para eliminar manchas e desfoque de movimento e faz com que os objetos em movimento pare\u0026ccedil;am mais n\u0026iacute;tidos, para que a jogabilidade seja mais fluida e responsiva. A \u003cstrong\u003etecnologia ASUS Shadow Boost\u003c/strong\u003e clareia \u0026aacute;reas escuras do jogo sem superexpor \u0026aacute;reas mais brilhantes, melhorando a visualiza\u0026ccedil;\u0026atilde;o geral, al\u0026eacute;m de facilitar a localiza\u0026ccedil;\u0026atilde;o de inimigos escondidos em \u0026aacute;reas escuras do mapa.\u003c/p\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003ch3\u003eAdquira agora o seu monitor gamer da ASUS no KaBuM!.\u003c/h3\u003e\",\"tagDescription\":\"Monitor Gamer Asus LED TUF 23.8´ com resolução Full HD, HDMI e para não perder nenhuma jogada 144Hz, 1ms e FreeSync. Monitor Gamer é no KaBuM! Compre já!\",\"weight\":12001,\"friendlyName\":\"monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q\",\"sellerName\":\"KaBuM!\",\"sellerId\":0,\"offerIdMarketplace\":0,\"category\":\"Computadores/Monitores/Monitor Gamer\",\"externalUrl\":\"\",\"manufacturer\":{\"id\":1,\"name\":\"Asus\",\"img\":\"https://images4.kabum.com.br/produtos/fabricantes/logo-asus.jpg\"},\"iframeUrl\":\"\",\"image\":\"h\",\"images\":[\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_original.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_original.jpg\"],\"price\":3208.02,\"primePrice\":0,\"primePriceWithDiscount\":0,\"discountPercentagePrime\":0,\"oldPrice\":3208.02,\"oldPrimePrice\":3208.02,\"priceWithDiscount\":2887.22,\"priceMarketplace\":0,\"discountPercentage\":10,\"quantity\":357,\"rating\":5,\"ratingCount\":105,\"available\":true,\"preOrderDate\":0,\"warranty\":\"3 anos de garantia (33 meses de garantia contratual junto ao fabricante + 3 meses referentes à garantia legal, nos termos do artigo 26, II, do Código de Defesa do Consumidor)\",\"dateProductArrived\":null,\"html\":\"\u003cp\u003e\u003cstrong\u003eCaracter\u0026iacute;sticas:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Marca: Asus\u003c/p\u003e\\r\\n\u003cp\u003e- Modelo: VG249Q\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eDisplay:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Tamanho do painel: Wide Screen 23,8\\\" (60,5 cm) 16: 9\u003c/p\u003e\\r\\n\u003cp\u003e- Satura\u0026ccedil;\u0026atilde;o de cor: 72% NTSC\u003c/p\u003e\\r\\n\u003cp\u003e- Tipo de painel: IPS\u003c/p\u003e\\r\\n\u003cp\u003e- Resolu\u0026ccedil;\u0026atilde;o real : 1920 x 1080\u003c/p\u003e\\r\\n\u003cp\u003e- \u0026Aacute;rea de exibi\u0026ccedil;\u0026atilde;o de tela (HxV): 527,04 x 296,46 mm\u003c/p\u003e\\r\\n\u003cp\u003e- Superf\u0026iacute;cie de exibi\u0026ccedil;\u0026atilde;o: N\u0026atilde;o ofuscante\u003c/p\u003e\\r\\n\u003cp\u003e- Dist\u0026acirc;ncia entre pixels: 0,2745 mm\u003c/p\u003e\\r\\n\u003cp\u003e- Brilho: 250 cd/\u0026#13217; (t\u0026iacute;pico)\u003c/p\u003e\\r\\n\u003cp\u003e- Contraste Ratio : 1000 :1 (Tipico)\u003c/p\u003e\\r\\n\u003cp\u003e- \u0026Acirc;ngulo (CR \u0026#8807; 10): 178 \u0026deg; (H) / 178 \u0026deg; (V)\u003c/p\u003e\\r\\n\u003cp\u003e- Tempo de resposta: 1ms MPRT *\u003c/p\u003e\\r\\n\u003cp\u003e- Display Colors: 16,7M\u003c/p\u003e\\r\\n\u003cp\u003e- Flicker free\u003c/p\u003e\\r\\n\u003cp\u003e- Taxa de atualiza\u0026ccedil;\u0026atilde;o (m\u0026aacute;x): 144Hz\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eRecurso de v\u0026iacute;deo:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- GamePlus (modos): Sim (Crosshair / Timer / FPS Counter / Display Alignment)\u003c/p\u003e\\r\\n\u003cp\u003e- Baixa luz azul\u003c/p\u003e\\r\\n\u003cp\u003e- Suporte para HDCP\u003c/p\u003e\\r\\n\u003cp\u003e- GameVisual: 7 modos (modos de cen\u0026aacute;rio / corrida / cinema / RTS / RPG / FPS / sRGB / sRGB / modo MOBA)\u003c/p\u003e\\r\\n\u003cp\u003e- FreeSync\u003c/p\u003e\\r\\n\u003cp\u003e- Extreme Low Motion Blur\u003c/p\u003e\\r\\n\u003cp\u003e- Tecnologia GameFast Input\u003c/p\u003e\\r\\n\u003cp\u003e- Shadow Boost\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eRecursos de \u0026aacute;udio:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Alto-falantes est\u0026eacute;reo: 2 x 2W RMS est\u0026eacute;reo\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003ePortas de E/S:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Entrada de Sinal: HDMI, D-Sub, DisplayPort\u003c/p\u003e\\r\\n\u003cp\u003e- Entrada de \u0026Aacute;udio para PC: Mini-Jack de 3,5 mm\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eFrequ\u0026ecirc;ncia de sinal:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Anal\u0026oacute;gico: 30 ~ 84 KHz (H) / 48 ~ 75 Hz (V)\u003c/p\u003e\\r\\n\u003cp\u003e- Digital: 30 ~ 180 KHz (H) / 48 ~ 144 Hz (V)\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eConsumo de energia:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Ligado (t\u0026iacute;pico): \u0026lt;16W\u003c/p\u003e\\r\\n\u003cp\u003e- Modo de economia de energia: \u0026lt;0,5W\u003c/p\u003e\\r\\n\u003cp\u003e- Modo de desligamento: \u0026lt;0,5W\u003c/p\u003e\\r\\n\u003cp\u003e- Tens\u0026atilde;o: 100-240V, 50 / 60Hz\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eDesign mec\u0026acirc;nico:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Inclina\u0026ccedil;\u0026atilde;o: +20\u0026deg; ~ -5\u0026deg;\u003c/p\u003e\\r\\n\u003cp\u003e- Girat\u0026oacute;ria: +62 \u0026deg; ~ -62\u0026deg;\u003c/p\u003e\\r\\n\u003cp\u003e- Piv\u0026ocirc;: +90\u0026deg; ~ -90\u0026deg;\u003c/p\u003e\\r\\n\u003cp\u003e- Ajuste de altura: 0 ~ 150 mm\u003c/p\u003e\\r\\n\u003cp\u003e- Montagem na parede VESA: 100 x 100 mm\u003c/p\u003e\\r\\n\u003cp\u003e- Design sem moldura\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eSeguran\u0026ccedil;a:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Fechadura Kensington\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eDimens\u0026otilde;es (LxAxP):\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- Com suporte: 540,50 x (365 ~ 515) x 217,6 mm\u003c/p\u003e\\r\\n\u003cp\u003e- Sem suporte: 540,50 x 325,24 x 51,67 mm\u003c/p\u003e\\r\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\r\\n\u003cp\u003e\u003cstrong\u003eConte\u0026uacute;do da embalagem:\u003c/strong\u003e\u003c/p\u003e\\r\\n\u003cp\u003e- 1 x Monitor Gamer Asus\u003c/p\u003e\\r\\n\u003cp\u003e- 1 x Cabo de alimenta\u0026ccedil;\u0026atilde;o\u003c/p\u003e\\r\\n\u003cp\u003e- 1 x Guia de in\u0026iacute;cio r\u0026aacute;pido\u003c/p\u003e\\r\\n\u003cp\u003e- 1 x Cart\u0026atilde;o de garantia\u003c/p\u003e\",\"ufsFlash\":[],\"flags\":{\"isMarketplace\":false,\"isOpenbox\":false,\"isFreeShipping\":false,\"isFreeShippingPrime\":false,\"isPixShipping\":false,\"isPreOrder\":false,\"isFlash\":false,\"isPrime\":false,\"isOffer\":true,\"hasGift\":false},\"origin\":{\"id\":null,\"name\":null},\"prime\":null,\"offer\":{\"id\":\"586367\",\"name\":\"Julho Gamer\",\"referenceBanner\":\"julhogamer\",\"endsAt\":1659351600,\"startsAt\":1658139600,\"price\":2111,\"priceWithDiscount\":1899.9,\"discountPercentage\":34,\"quantityAvailable\":357,\"hashCode\":\"0b1cc9813c6cbc98c12cc6729f8d699ad0066846\"},\"paymentMethodsDefault\":[{\"category\":\"boleto\",\"method\":\"Boleto Bancário\",\"bestInstallment\":null,\"installments\":[{\"id\":1,\"paymentTerms\":\"Até 15% de desconto\",\"installment\":1,\"amount\":1899.9,\"total\":1899.9,\"hasFee\":false}]},{\"category\":\"cartao\",\"method\":\"Cartão de Crédito\",\"bestInstallment\":null,\"installments\":[{\"id\":59,\"paymentTerms\":\"À vista - Até 10% de desconto\",\"installment\":1,\"amount\":1899.9,\"total\":1899.9,\"hasFee\":false},{\"id\":4,\"paymentTerms\":\"2x sem juros\",\"installment\":2,\"amount\":1055.5,\"total\":2111,\"hasFee\":false},{\"id\":5,\"paymentTerms\":\"3x sem juros\",\"installment\":3,\"amount\":703.66,\"total\":2111,\"hasFee\":false},{\"id\":6,\"paymentTerms\":\"4x sem juros\",\"installment\":4,\"amount\":527.75,\"total\":2111,\"hasFee\":false},{\"id\":7,\"paymentTerms\":\"5x sem juros\",\"installment\":5,\"amount\":422.2,\"total\":2111,\"hasFee\":false},{\"id\":8,\"paymentTerms\":\"6x sem juros\",\"installment\":6,\"amount\":351.83,\"total\":2111,\"hasFee\":false},{\"id\":42,\"paymentTerms\":\"7x sem juros\",\"installment\":7,\"amount\":301.57,\"total\":2111,\"hasFee\":false},{\"id\":43,\"paymentTerms\":\"8x sem juros\",\"installment\":8,\"amount\":263.87,\"total\":2111,\"hasFee\":false},{\"id\":44,\"paymentTerms\":\"9x sem juros\",\"installment\":9,\"amount\":234.55,\"total\":2111,\"hasFee\":false},{\"id\":45,\"paymentTerms\":\"10x sem juros\",\"installment\":10,\"amount\":211.1,\"total\":2111,\"hasFee\":false},{\"id\":55,\"paymentTerms\":\"11x com juros\",\"installment\":11,\"amount\":194.4,\"total\":2138.44,\"hasFee\":true},{\"id\":56,\"paymentTerms\":\"12x com juros\",\"installment\":12,\"amount\":180.49,\"total\":2165.89,\"hasFee\":true}]},{\"category\":\"paypal\",\"method\":\"PayPal\",\"bestInstallment\":null,\"installments\":[{\"id\":67,\"paymentTerms\":\"PayPal\",\"installment\":1,\"amount\":2111,\"total\":2111,\"hasFee\":false}]},{\"category\":\"pix\",\"method\":\"PIX\",\"bestInstallment\":null,\"installments\":[{\"id\":98,\"paymentTerms\":\"À vista\",\"installment\":1,\"amount\":1899.9,\"total\":1899.9,\"hasFee\":false}]},{\"category\":\"cobranded\",\"method\":\"Cartão de Crédito KaBuM!\",\"bestInstallment\":null,\"installments\":[{\"id\":99,\"paymentTerms\":\"À vista - Até 10% de desconto\",\"installment\":1,\"amount\":1899.9,\"total\":1899.9,\"hasFee\":false},{\"id\":101,\"paymentTerms\":\"2x sem juros\",\"installment\":2,\"amount\":1055.5,\"total\":2111,\"hasFee\":false},{\"id\":102,\"paymentTerms\":\"3x sem juros\",\"installment\":3,\"amount\":703.66,\"total\":2111,\"hasFee\":false},{\"id\":103,\"paymentTerms\":\"4x sem juros\",\"installment\":4,\"amount\":527.75,\"total\":2111,\"hasFee\":false},{\"id\":104,\"paymentTerms\":\"5x sem juros\",\"installment\":5,\"amount\":422.2,\"total\":2111,\"hasFee\":false},{\"id\":105,\"paymentTerms\":\"6x sem juros\",\"installment\":6,\"amount\":351.83,\"total\":2111,\"hasFee\":false},{\"id\":106,\"paymentTerms\":\"7x sem juros\",\"installment\":7,\"amount\":301.57,\"total\":2111,\"hasFee\":false},{\"id\":107,\"paymentTerms\":\"8x sem juros\",\"installment\":8,\"amount\":263.87,\"total\":2111,\"hasFee\":false},{\"id\":108,\"paymentTerms\":\"9x sem juros\",\"installment\":9,\"amount\":234.55,\"total\":2111,\"hasFee\":false},{\"id\":109,\"paymentTerms\":\"10x sem juros\",\"installment\":10,\"amount\":211.1,\"total\":2111,\"hasFee\":false},{\"id\":110,\"paymentTerms\":\"11x sem juros\",\"installment\":11,\"amount\":191.9,\"total\":2111,\"hasFee\":false},{\"id\":111,\"paymentTerms\":\"12x sem juros\",\"installment\":12,\"amount\":175.91,\"total\":2111,\"hasFee\":false},{\"id\":112,\"paymentTerms\":\"13x com juros\",\"installment\":13,\"amount\":183.49,\"total\":2385.43,\"hasFee\":true},{\"id\":113,\"paymentTerms\":\"14x com juros\",\"installment\":14,\"amount\":171.89,\"total\":2406.54,\"hasFee\":true},{\"id\":114,\"paymentTerms\":\"15x com juros\",\"installment\":15,\"amount\":161.84,\"total\":2427.65,\"hasFee\":true},{\"id\":115,\"paymentTerms\":\"16x com juros\",\"installment\":16,\"amount\":153.04,\"total\":2448.76,\"hasFee\":true},{\"id\":116,\"paymentTerms\":\"17x com juros\",\"installment\":17,\"amount\":145.28,\"total\":2469.87,\"hasFee\":true},{\"id\":117,\"paymentTerms\":\"18x com juros\",\"installment\":18,\"amount\":138.38,\"total\":2490.98,\"hasFee\":true},{\"id\":118,\"paymentTerms\":\"19x com juros\",\"installment\":19,\"amount\":132.21,\"total\":2512.09,\"hasFee\":true},{\"id\":119,\"paymentTerms\":\"20x com juros\",\"installment\":20,\"amount\":126.66,\"total\":2533.2,\"hasFee\":true},{\"id\":120,\"paymentTerms\":\"21x com juros\",\"installment\":21,\"amount\":121.63,\"total\":2554.31,\"hasFee\":true},{\"id\":121,\"paymentTerms\":\"22x com juros\",\"installment\":22,\"amount\":117.06,\"total\":2575.42,\"hasFee\":true},{\"id\":122,\"paymentTerms\":\"23x com juros\",\"installment\":23,\"amount\":112.89,\"total\":2596.53,\"hasFee\":true},{\"id\":123,\"paymentTerms\":\"24x com juros\",\"installment\":24,\"amount\":109.06,\"total\":2617.64,\"hasFee\":true}]}],\"paymentMethodsPrime\":null,\"photos\":{\"p\":[\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_p.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_p.jpg\"],\"m\":[\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_m.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_m.jpg\"],\"g\":[\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_g.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_g.jpg\"],\"gg\":[\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_gg.jpg\",\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_gg.jpg\"]},\"thumbnail\":\"https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_m.jpg\",\"promotionBanner\":null,\"campaignBanners\":[],\"crossCart\":[96823,94087,129451,66733,109012],\"crossSelling\":[]}",
+        "productData": "{\"type\":\"offer\",\"code\":109013,\"iframeUrl\":\"109013/index.html\",\"description\":\"\u003ch2\u003eMonitor Gaming TUF Gaming VG249Q 23,8 polegadas Full HD (1920x1080), 144Hz, IPS, Extreme Low Motion Blur, Adaptive-sync, FreeSync, 1ms (MPRT)\u003c/h2\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003cp\u003eTUF Gaming VG249Q \u0026eacute; um monitor IPS de 23,8 polegadas,\u003cstrong\u003e Full HD (1920x1080)\u003c/strong\u003e, com taxa de atualiza\u0026ccedil;\u0026atilde;o r\u0026aacute;pida de 144Hz projetada para jogadores profissionais e jogabilidade r\u0026aacute;pida. Tamb\u0026eacute;m possui \u003cstrong\u003etempo de resposta de 1ms MPRT\u003c/strong\u003e e \u003cstrong\u003etecnologia Adaptive-Sync\u003c/strong\u003e, para jogabilidade extremamente fluida sem tearing e stuttering.\u003c/p\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003ch2\u003eTela IPS de 23,8 polegadas para amplo \u0026acirc;ngulo de visualiza\u0026ccedil;\u0026atilde;o e melhor reprodu\u0026ccedil;\u0026atilde;o de cores com tempo de Resposta de 144Hz\u003c/h2\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003cp\u003eO \u003cstrong\u003epainel IPS\u003c/strong\u003e de 23,8 polegadas Full HD (1920 x 1080) do TUF Gaming VG249Q oferece visuais impressionantes em amplos \u003cstrong\u003e\u0026acirc;ngulos de vis\u0026atilde;o de 178\u0026ordm;\u003c/strong\u003e, impedindo muitas distor\u0026ccedil;\u0026otilde;es e mudan\u0026ccedil;a de cor, mesmo quando voc\u0026ecirc; est\u0026aacute; visualizando de posi\u0026ccedil;\u0026otilde;es nas extremidades. O TUF Gaming VG249Q possui uma \u003cstrong\u003etaxa de atualiza\u0026ccedil;\u0026atilde;o ultra-r\u0026aacute;pida de 144Hz\u003c/strong\u003e, garantindo que mesmos jogos em ritmo acelerado, reproduzidos nas mais altas configura\u0026ccedil;\u0026otilde;es visuais, pare\u0026ccedil;am suaves e completamente livres de lags. Obtenha vantagem em jogos de tiro em primeira pessoa, corridas, estrat\u0026eacute;gia em tempo real e esportes.\u003c/p\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003ch2\u003eTecnologia Extreme Low Motion Blur e Shadow Boost\u003c/h2\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003cp\u003eApresenta a mais recente \u003cstrong\u003etecnologia Extreme Low Motion Blur\u003c/strong\u003e exclusiva da ASUS, que atinge 1ms MPRT para eliminar manchas e desfoque de movimento e faz com que os objetos em movimento pare\u0026ccedil;am mais n\u0026iacute;tidos, para que a jogabilidade seja mais fluida e responsiva. A \u003cstrong\u003etecnologia ASUS Shadow Boost\u003c/strong\u003e clareia \u0026aacute;reas escuras do jogo sem superexpor \u0026aacute;reas mais brilhantes, melhorando a visualiza\u0026ccedil;\u0026atilde;o geral, al\u0026eacute;m de facilitar a localiza\u0026ccedil;\u0026atilde;o de inimigos escondidos em \u0026aacute;reas escuras do mapa.\u003c/p\u003e\\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\\n\u003ch3\u003eAdquira agora o seu monitor gamer da ASUS no KaBuM!.\u003c/h3\u003e\",\"name\":\"Monitor Gamer Asus TUF 23.8' IPS, Wide, 144 Hz, Full HD, 1ms, FreeSync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG249Q\",\"friendlyName\":\"monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q\",\"tagCode\":0,\"di\":\"0b1cc9813c6cbc98c12cc6729f8d699ad0066846\",\"photos\":[\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_g.jpg\",\"https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_g.jpg\"],\"available\":true,\"category\":\"Computadores/Monitores/Monitor Gamer\",\"similarProducts\":[{\"name\":\"Monitor Gamer Asus 23.8' IPS, Wide, 144 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Vesa, Som Integrado - VP249QGR\",\"friendlyName\":\"monitor-gamer-asus-23-8-ips-wide-144-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-vesa-som-integrado-vp249qgr\",\"code\":109012,\"discountPrice\":1699.9,\"discountPrimePrice\":0,\"image\":\"https://images2.kabum.com.br/produtos/fotos/109012/monitor-gamer-asus-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-vp249qgr_1580752917_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer LED Asus TUF Gaming 27´, Full HD, IPS, HDMI/DisplayPort, FreeSync, 144Hz, 1ms - VG279Q1R\",\"friendlyName\":\"monitor-gamer-led-asus-tuf-gaming-27-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-vg279q1r\",\"code\":113007,\"discountPrice\":2199.9,\"discountPrimePrice\":0,\"image\":\"https://images7.kabum.com.br/produtos/fotos/113007/monitor-gamer-led-asus-tuf-gaming-27-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-vg279q1r_1594665333_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus TUF 24.5' IPS, 165 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG259QR\",\"friendlyName\":\"monitor-gamer-asus-tuf-24-5-ips-165-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg259qr\",\"code\":148833,\"discountPrice\":1889.9,\"discountPrimePrice\":0,\"image\":\"https://images3.kabum.com.br/produtos/fotos/148833/monitor-gamer-asus-tuf-24-5-ips-165-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg259qr_1639518530_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus 24.5' LED, Wide, 165 Hz, Full HD, 0.5ms, FreeSync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG258QR\",\"friendlyName\":\"monitor-gamer-asus-24-5-led-wide-165-hz-full-hd-0-5ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg258qr\",\"code\":164898,\"discountPrice\":1599.9,\"discountPrimePrice\":0,\"image\":\"https://images8.kabum.com.br/produtos/fotos/164898/monitor-gamer-asus-vg258qr-24-5-full-hd-165hz-0-5ms-display-port-hdmi-g-sync-compatible-freesync-premium-90lm0450-b013x0_1632500619_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus ROG Strix 32' LED, Curvo, 144 Hz, 2K QHD, FreeSync, 125% sRGB, HDMI/DisplayPort, Ajuste de Altura, Vesa - XG32VQ\",\"friendlyName\":\"monitor-gamer-asus-rog-strix-32-led-curvo-144-hz-2k-qhd-freesync-125-srgb-hdmi-displayport-ajuste-de-altura-vesa-xg32vq\",\"code\":96237,\"discountPrice\":4599.9,\"discountPrimePrice\":0,\"image\":\"https://images7.kabum.com.br/produtos/fotos/96237/monitor-gamer-asus-rog-strix-led-32-widescreen-wqhd-hdmi-display-port-freesync-144hz-altura-ajustavel-xg32vq_1544449687_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus TUF 27 LED Full HD, 1ms, 165 Hz, FreeSync Premium, 120% sRGB, HDMI, Som Integrado, ELMB - VG27VH1B\",\"friendlyName\":\"monitor-gamer-asus-tuf-27-led-full-hd-1ms-165-hz-freesync-premium-120-srgb-hdmi-som-integrado-elmb-vg27vh1b\",\"code\":211016,\"discountPrice\":1999.9,\"discountPrimePrice\":0,\"image\":\"https://images6.kabum.com.br/produtos/fotos/211016/monitor-gamer-asus-tuf-27-led-full-hd-1ms-165-hz-freesync-premium-hdr-10-120-srgb-hdmi-som-integrado-elmb-vg27vh1b_1633190846_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus TUF 31.5' LED, Curvo, 144 Hz, 2K QHD, 1ms, FreeSync, HDR 10, 92% sRGB, HDMI/DisplayPort, Ajuste de Alt, Vesa, Som - VG32VQ\",\"friendlyName\":\"monitor-gamer-asus-tuf-31-5-led-curvo-144-hz-2k-qhd-1ms-freesync-hdr-10-92-srgb-hdmi-displayport-ajuste-de-alt-vesa-som-vg32vq\",\"code\":103444,\"discountPrice\":2999.9,\"discountPrimePrice\":0,\"image\":\"https://images4.kabum.com.br/produtos/fotos/103444/monitor-gamer-asus-tuf-gaming-vg32vq-lcd-32-widescreen-curvo-qhd-hdmi-display-port-som-integrado-144hz-1ms-altura-ajustavel-_1566572003_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus TUF 23.8' IPS, 165 Hz, Full HD, 1ms, FreeSync Premium, HDMI/DisplayPort, VESA, Som Integrado - VG249Q1R\",\"friendlyName\":\"monitor-gamer-asus-tuf-23-8-ips-165-hz-full-hd-1ms-freesync-premium-hdmi-displayport-vesa-som-integrado-vg249q1r\",\"code\":114577,\"discountPrice\":1699.9,\"discountPrimePrice\":0,\"image\":\"https://images7.kabum.com.br/produtos/fotos/114577/monitor-gamer-led-asus-tuf-gaming-23-8-full-hd-ips-hdmi-displayport-freesync-165hz-1ms-vg249q1r_1639517567_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus TUF 23.6, Curvo, 165 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Vesa - VG24VQE\",\"friendlyName\":\"monitor-gamer-asus-tuf-23-6-curvo-165-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-vesa-vg24vqe\",\"code\":148835,\"discountPrice\":1699.9,\"discountPrimePrice\":0,\"image\":\"https://images5.kabum.com.br/produtos/fotos/148835/monitor-gamer-asus-vg24vqe-23-8-165hz-1ms-fullhd-curvo-freesync-ajuste-de-altura-90lm0570-b011x0_1614180934_m.jpg\",\"isPrime\":false},{\"name\":\"Monitor Gamer Asus TUF 31.5' LED, 165 Hz, 2K QHD, 1ms, FreeSync Premium, HDR 10, 120% sRGB, HDMI/DisplayPort, VESA, Som Integrado - VG32VQ1B\",\"friendlyName\":\"monitor-gamer-asus-tuf-31-5-led-165-hz-2k-qhd-1ms-freesync-premium-hdr-10-120-srgb-hdmi-displayport-vesa-som-integrado-vg32vq1b\",\"code\":115238,\"discountPrice\":2999.9,\"discountPrimePrice\":0,\"image\":\"https://images8.kabum.com.br/produtos/fotos/115238/monitor-gamer-asus-led-tuf-gaming-31-5-wqhd-hdmi-displayport-freesync-165hz-1ms-vg32vq1b_1597350761_m.jpg\",\"isPrime\":false}],\"menus\":[{\"code\":4,\"name\":\"Computadores\",\"link\":\"/computadores\"},{\"code\":36,\"name\":\"Monitores\",\"link\":\"/computadores/monitores\"},{\"code\":21057,\"name\":\"Monitor Gamer\",\"link\":\"/computadores/monitores/monitor-gamer\"}],\"offer\":{\"quantity\":357,\"endDate\":1659351600,\"event\":\"Julho Gamer\",\"primaryColor\":\"#f17a28\",\"secondaryColor\":\"#000000\",\"letterColor\":\"#FFFFFF\",\"offerDiscount\":34,\"id\":586367,\"pathJson\":\"julhogamer\"},\"offerStartTime\":0,\"priceDetails\":{\"oldPrice\":3208.02,\"price\":2111,\"discountPrice\":1899.9,\"primePrice\":0,\"maxParcel\":{\"parcel\":12,\"value\":180.49,\"type\":\"sem juros\"},\"discountPercentage\":10,\"discountPercentagePrime\":0,\"isPrime\":false,\"savePrime\":0,\"discountPricePrime\":0,\"primeParcels\":[],\"maxPrimeParcel\":{},\"maxCobrandedParcel\":{\"parcel\":24,\"value\":109.07,\"type\":\"com juros\"},\"maxCobrandedPrimeParcel\":{}},\"offerIdMarketplace\":null,\"price\":2111,\"weight\":12001,\"weightString\":\"12001 gramas (bruto com embalagem)\",\"warrantyString\":\"36 meses de garantia\",\"sellerId\":\"kabum\",\"sellerName\":\"\",\"parcels\":[{\"parcelNumber\":1,\"value\":1899.9,\"type\":\"sem juros\"},{\"parcelNumber\":2,\"value\":1055.5,\"type\":\"sem juros\"},{\"parcelNumber\":3,\"value\":703.67,\"type\":\"sem juros\"},{\"parcelNumber\":4,\"value\":527.75,\"type\":\"sem juros\"},{\"parcelNumber\":5,\"value\":422.2,\"type\":\"sem juros\"},{\"parcelNumber\":6,\"value\":351.83,\"type\":\"sem juros\"},{\"parcelNumber\":7,\"value\":301.57,\"type\":\"sem juros\"},{\"parcelNumber\":8,\"value\":263.88,\"type\":\"sem juros\"},{\"parcelNumber\":9,\"value\":234.56,\"type\":\"sem juros\"},{\"parcelNumber\":10,\"value\":211.1,\"type\":\"sem juros\"},{\"parcelNumber\":11,\"value\":194.4,\"type\":\"sem juros\"},{\"parcelNumber\":12,\"value\":180.49,\"type\":\"sem juros\"}],\"producer\":{\"code\":1,\"name\":\"Asus\",\"img\":\"https://images1.kabum.com.br/produtos/fabricantes/logo-asus.jpg\"},\"rating\":5,\"isOpenbox\":false,\"isBlackFriday\":0,\"isDigital\":false,\"ratingNumber\":105,\"technicalInformation\":\"\u003cp\u003e\u003cstrong\u003eCaracter\u0026iacute;sticas:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Marca: Asus\u003c/p\u003e\u003cp\u003e- Modelo: VG249Q\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDisplay:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Tamanho do painel: Wide Screen 23,8\\\" (60,5 cm) 16: 9\u003c/p\u003e\u003cp\u003e- Satura\u0026ccedil;\u0026atilde;o de cor: 72% NTSC\u003c/p\u003e\u003cp\u003e- Tipo de painel: IPS\u003c/p\u003e\u003cp\u003e- Resolu\u0026ccedil;\u0026atilde;o real : 1920 x 1080\u003c/p\u003e\u003cp\u003e- \u0026Aacute;rea de exibi\u0026ccedil;\u0026atilde;o de tela (HxV): 527,04 x 296,46 mm\u003c/p\u003e\u003cp\u003e- Superf\u0026iacute;cie de exibi\u0026ccedil;\u0026atilde;o: N\u0026atilde;o ofuscante\u003c/p\u003e\u003cp\u003e- Dist\u0026acirc;ncia entre pixels: 0,2745 mm\u003c/p\u003e\u003cp\u003e- Brilho: 250 cd/\u0026#13217; (t\u0026iacute;pico)\u003c/p\u003e\u003cp\u003e- Contraste Ratio : 1000 :1 (Tipico)\u003c/p\u003e\u003cp\u003e- \u0026Acirc;ngulo (CR \u0026#8807; 10): 178 \u0026deg; (H) / 178 \u0026deg; (V)\u003c/p\u003e\u003cp\u003e- Tempo de resposta: 1ms MPRT *\u003c/p\u003e\u003cp\u003e- Display Colors: 16,7M\u003c/p\u003e\u003cp\u003e- Flicker free\u003c/p\u003e\u003cp\u003e- Taxa de atualiza\u0026ccedil;\u0026atilde;o (m\u0026aacute;x): 144Hz\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRecurso de v\u0026iacute;deo:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- GamePlus (modos): Sim (Crosshair / Timer / FPS Counter / Display Alignment)\u003c/p\u003e\u003cp\u003e- Baixa luz azul\u003c/p\u003e\u003cp\u003e- Suporte para HDCP\u003c/p\u003e\u003cp\u003e- GameVisual: 7 modos (modos de cen\u0026aacute;rio / corrida / cinema / RTS / RPG / FPS / sRGB / sRGB / modo MOBA)\u003c/p\u003e\u003cp\u003e- FreeSync\u003c/p\u003e\u003cp\u003e- Extreme Low Motion Blur\u003c/p\u003e\u003cp\u003e- Tecnologia GameFast Input\u003c/p\u003e\u003cp\u003e- Shadow Boost\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRecursos de \u0026aacute;udio:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Alto-falantes est\u0026eacute;reo: 2 x 2W RMS est\u0026eacute;reo\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePortas de E/S:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Entrada de Sinal: HDMI, D-Sub, DisplayPort\u003c/p\u003e\u003cp\u003e- Entrada de \u0026Aacute;udio para PC: Mini-Jack de 3,5 mm\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFrequ\u0026ecirc;ncia de sinal:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Anal\u0026oacute;gico: 30 ~ 84 KHz (H) / 48 ~ 75 Hz (V)\u003c/p\u003e\u003cp\u003e- Digital: 30 ~ 180 KHz (H) / 48 ~ 144 Hz (V)\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eConsumo de energia:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Ligado (t\u0026iacute;pico): \u0026lt;16W\u003c/p\u003e\u003cp\u003e- Modo de economia de energia: \u0026lt;0,5W\u003c/p\u003e\u003cp\u003e- Modo de desligamento: \u0026lt;0,5W\u003c/p\u003e\u003cp\u003e- Tens\u0026atilde;o: 100-240V, 50 / 60Hz\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDesign mec\u0026acirc;nico:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Inclina\u0026ccedil;\u0026atilde;o: +20\u0026deg; ~ -5\u0026deg;\u003c/p\u003e\u003cp\u003e- Girat\u0026oacute;ria: +62 \u0026deg; ~ -62\u0026deg;\u003c/p\u003e\u003cp\u003e- Piv\u0026ocirc;: +90\u0026deg; ~ -90\u0026deg;\u003c/p\u003e\u003cp\u003e- Ajuste de altura: 0 ~ 150 mm\u003c/p\u003e\u003cp\u003e- Montagem na parede VESA: 100 x 100 mm\u003c/p\u003e\u003cp\u003e- Design sem moldura\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSeguran\u0026ccedil;a:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Fechadura Kensington\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDimens\u0026otilde;es (LxAxP):\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Com suporte: 540,50 x (365 ~ 515) x 217,6 mm\u003c/p\u003e\u003cp\u003e- Sem suporte: 540,50 x 325,24 x 51,67 mm\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eConte\u0026uacute;do da embalagem:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- 1 x Monitor Gamer Asus\u003c/p\u003e\u003cp\u003e- 1 x Cabo de alimenta\u0026ccedil;\u0026atilde;o\u003c/p\u003e\u003cp\u003e- 1 x Guia de in\u0026iacute;cio r\u0026aacute;pido\u003c/p\u003e\u003cp\u003e- 1 x Cart\u0026atilde;o de garantia\u003c/p\u003e\",\"link\":\"/produto/109013/monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q\",\"gift\":null,\"origin\":\"0\",\"originName\":\"\",\"dataLayer\":{\"visitor\":{\"campaign\":\"direct\",\"medium\":\"direct\",\"source\":\"direct\",\"clientEmail\":\"\",\"device\":\"desktop\"}},\"tagCanonical\":\"https://www.kabum.com.brundefined\"}"
+      },
+      "initialZustandState": {
+        "descriptionProduct": {
+          "type": "offer",
+          "code": 109013,
+          "iframeUrl": "109013/index.html",
+          "description": "\u003ch2\u003eMonitor Gaming TUF Gaming VG249Q 23,8 polegadas Full HD (1920x1080), 144Hz, IPS, Extreme Low Motion Blur, Adaptive-sync, FreeSync, 1ms (MPRT)\u003c/h2\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eTUF Gaming VG249Q \u0026eacute; um monitor IPS de 23,8 polegadas,\u003cstrong\u003e Full HD (1920x1080)\u003c/strong\u003e, com taxa de atualiza\u0026ccedil;\u0026atilde;o r\u0026aacute;pida de 144Hz projetada para jogadores profissionais e jogabilidade r\u0026aacute;pida. Tamb\u0026eacute;m possui \u003cstrong\u003etempo de resposta de 1ms MPRT\u003c/strong\u003e e \u003cstrong\u003etecnologia Adaptive-Sync\u003c/strong\u003e, para jogabilidade extremamente fluida sem tearing e stuttering.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ch2\u003eTela IPS de 23,8 polegadas para amplo \u0026acirc;ngulo de visualiza\u0026ccedil;\u0026atilde;o e melhor reprodu\u0026ccedil;\u0026atilde;o de cores com tempo de Resposta de 144Hz\u003c/h2\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eO \u003cstrong\u003epainel IPS\u003c/strong\u003e de 23,8 polegadas Full HD (1920 x 1080) do TUF Gaming VG249Q oferece visuais impressionantes em amplos \u003cstrong\u003e\u0026acirc;ngulos de vis\u0026atilde;o de 178\u0026ordm;\u003c/strong\u003e, impedindo muitas distor\u0026ccedil;\u0026otilde;es e mudan\u0026ccedil;a de cor, mesmo quando voc\u0026ecirc; est\u0026aacute; visualizando de posi\u0026ccedil;\u0026otilde;es nas extremidades. O TUF Gaming VG249Q possui uma \u003cstrong\u003etaxa de atualiza\u0026ccedil;\u0026atilde;o ultra-r\u0026aacute;pida de 144Hz\u003c/strong\u003e, garantindo que mesmos jogos em ritmo acelerado, reproduzidos nas mais altas configura\u0026ccedil;\u0026otilde;es visuais, pare\u0026ccedil;am suaves e completamente livres de lags. Obtenha vantagem em jogos de tiro em primeira pessoa, corridas, estrat\u0026eacute;gia em tempo real e esportes.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ch2\u003eTecnologia Extreme Low Motion Blur e Shadow Boost\u003c/h2\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eApresenta a mais recente \u003cstrong\u003etecnologia Extreme Low Motion Blur\u003c/strong\u003e exclusiva da ASUS, que atinge 1ms MPRT para eliminar manchas e desfoque de movimento e faz com que os objetos em movimento pare\u0026ccedil;am mais n\u0026iacute;tidos, para que a jogabilidade seja mais fluida e responsiva. A \u003cstrong\u003etecnologia ASUS Shadow Boost\u003c/strong\u003e clareia \u0026aacute;reas escuras do jogo sem superexpor \u0026aacute;reas mais brilhantes, melhorando a visualiza\u0026ccedil;\u0026atilde;o geral, al\u0026eacute;m de facilitar a localiza\u0026ccedil;\u0026atilde;o de inimigos escondidos em \u0026aacute;reas escuras do mapa.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ch3\u003eAdquira agora o seu monitor gamer da ASUS no KaBuM!.\u003c/h3\u003e",
+          "name": "Monitor Gamer Asus TUF 23.8' IPS, Wide, 144 Hz, Full HD, 1ms, FreeSync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG249Q",
+          "friendlyName": "monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q",
+          "tagCode": 0,
+          "di": "0b1cc9813c6cbc98c12cc6729f8d699ad0066846",
+          "photos": [
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_g.jpg",
+            "https://images3.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_g.jpg"
+          ],
+          "available": true,
+          "category": "Computadores/Monitores/Monitor Gamer",
+          "similarProducts": [
+            {
+              "name": "Monitor Gamer Asus 23.8' IPS, Wide, 144 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Vesa, Som Integrado - VP249QGR",
+              "friendlyName": "monitor-gamer-asus-23-8-ips-wide-144-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-vesa-som-integrado-vp249qgr",
+              "code": 109012,
+              "discountPrice": 1699.9,
+              "discountPrimePrice": 0,
+              "image": "https://images2.kabum.com.br/produtos/fotos/109012/monitor-gamer-asus-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-vp249qgr_1580752917_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer LED Asus TUF Gaming 27´, Full HD, IPS, HDMI/DisplayPort, FreeSync, 144Hz, 1ms - VG279Q1R",
+              "friendlyName": "monitor-gamer-led-asus-tuf-gaming-27-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-vg279q1r",
+              "code": 113007,
+              "discountPrice": 2199.9,
+              "discountPrimePrice": 0,
+              "image": "https://images7.kabum.com.br/produtos/fotos/113007/monitor-gamer-led-asus-tuf-gaming-27-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-vg279q1r_1594665333_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus TUF 24.5' IPS, 165 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG259QR",
+              "friendlyName": "monitor-gamer-asus-tuf-24-5-ips-165-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg259qr",
+              "code": 148833,
+              "discountPrice": 1889.9,
+              "discountPrimePrice": 0,
+              "image": "https://images3.kabum.com.br/produtos/fotos/148833/monitor-gamer-asus-tuf-24-5-ips-165-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg259qr_1639518530_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus 24.5' LED, Wide, 165 Hz, Full HD, 0.5ms, FreeSync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG258QR",
+              "friendlyName": "monitor-gamer-asus-24-5-led-wide-165-hz-full-hd-0-5ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg258qr",
+              "code": 164898,
+              "discountPrice": 1599.9,
+              "discountPrimePrice": 0,
+              "image": "https://images8.kabum.com.br/produtos/fotos/164898/monitor-gamer-asus-vg258qr-24-5-full-hd-165hz-0-5ms-display-port-hdmi-g-sync-compatible-freesync-premium-90lm0450-b013x0_1632500619_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus ROG Strix 32' LED, Curvo, 144 Hz, 2K QHD, FreeSync, 125% sRGB, HDMI/DisplayPort, Ajuste de Altura, Vesa - XG32VQ",
+              "friendlyName": "monitor-gamer-asus-rog-strix-32-led-curvo-144-hz-2k-qhd-freesync-125-srgb-hdmi-displayport-ajuste-de-altura-vesa-xg32vq",
+              "code": 96237,
+              "discountPrice": 4599.9,
+              "discountPrimePrice": 0,
+              "image": "https://images7.kabum.com.br/produtos/fotos/96237/monitor-gamer-asus-rog-strix-led-32-widescreen-wqhd-hdmi-display-port-freesync-144hz-altura-ajustavel-xg32vq_1544449687_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus TUF 27 LED Full HD, 1ms, 165 Hz, FreeSync Premium, 120% sRGB, HDMI, Som Integrado, ELMB - VG27VH1B",
+              "friendlyName": "monitor-gamer-asus-tuf-27-led-full-hd-1ms-165-hz-freesync-premium-120-srgb-hdmi-som-integrado-elmb-vg27vh1b",
+              "code": 211016,
+              "discountPrice": 1999.9,
+              "discountPrimePrice": 0,
+              "image": "https://images6.kabum.com.br/produtos/fotos/211016/monitor-gamer-asus-tuf-27-led-full-hd-1ms-165-hz-freesync-premium-hdr-10-120-srgb-hdmi-som-integrado-elmb-vg27vh1b_1633190846_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus TUF 31.5' LED, Curvo, 144 Hz, 2K QHD, 1ms, FreeSync, HDR 10, 92% sRGB, HDMI/DisplayPort, Ajuste de Alt, Vesa, Som - VG32VQ",
+              "friendlyName": "monitor-gamer-asus-tuf-31-5-led-curvo-144-hz-2k-qhd-1ms-freesync-hdr-10-92-srgb-hdmi-displayport-ajuste-de-alt-vesa-som-vg32vq",
+              "code": 103444,
+              "discountPrice": 2999.9,
+              "discountPrimePrice": 0,
+              "image": "https://images4.kabum.com.br/produtos/fotos/103444/monitor-gamer-asus-tuf-gaming-vg32vq-lcd-32-widescreen-curvo-qhd-hdmi-display-port-som-integrado-144hz-1ms-altura-ajustavel-_1566572003_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus TUF 23.8' IPS, 165 Hz, Full HD, 1ms, FreeSync Premium, HDMI/DisplayPort, VESA, Som Integrado - VG249Q1R",
+              "friendlyName": "monitor-gamer-asus-tuf-23-8-ips-165-hz-full-hd-1ms-freesync-premium-hdmi-displayport-vesa-som-integrado-vg249q1r",
+              "code": 114577,
+              "discountPrice": 1699.9,
+              "discountPrimePrice": 0,
+              "image": "https://images7.kabum.com.br/produtos/fotos/114577/monitor-gamer-led-asus-tuf-gaming-23-8-full-hd-ips-hdmi-displayport-freesync-165hz-1ms-vg249q1r_1639517567_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus TUF 23.6, Curvo, 165 Hz, Full HD, 1ms, Adaptive Sync, HDMI/DisplayPort, Vesa - VG24VQE",
+              "friendlyName": "monitor-gamer-asus-tuf-23-6-curvo-165-hz-full-hd-1ms-adaptive-sync-hdmi-displayport-vesa-vg24vqe",
+              "code": 148835,
+              "discountPrice": 1699.9,
+              "discountPrimePrice": 0,
+              "image": "https://images5.kabum.com.br/produtos/fotos/148835/monitor-gamer-asus-vg24vqe-23-8-165hz-1ms-fullhd-curvo-freesync-ajuste-de-altura-90lm0570-b011x0_1614180934_m.jpg",
+              "isPrime": false
+            },
+            {
+              "name": "Monitor Gamer Asus TUF 31.5' LED, 165 Hz, 2K QHD, 1ms, FreeSync Premium, HDR 10, 120% sRGB, HDMI/DisplayPort, VESA, Som Integrado - VG32VQ1B",
+              "friendlyName": "monitor-gamer-asus-tuf-31-5-led-165-hz-2k-qhd-1ms-freesync-premium-hdr-10-120-srgb-hdmi-displayport-vesa-som-integrado-vg32vq1b",
+              "code": 115238,
+              "discountPrice": 2999.9,
+              "discountPrimePrice": 0,
+              "image": "https://images8.kabum.com.br/produtos/fotos/115238/monitor-gamer-asus-led-tuf-gaming-31-5-wqhd-hdmi-displayport-freesync-165hz-1ms-vg32vq1b_1597350761_m.jpg",
+              "isPrime": false
+            }
+          ],
+          "menus": [
+            {
+              "code": 4,
+              "name": "Computadores",
+              "link": "/computadores"
+            },
+            {
+              "code": 36,
+              "name": "Monitores",
+              "link": "/computadores/monitores"
+            },
+            {
+              "code": 21057,
+              "name": "Monitor Gamer",
+              "link": "/computadores/monitores/monitor-gamer"
+            }
+          ],
+          "offer": {
+            "quantity": 357,
+            "endDate": 1659351600,
+            "event": "Julho Gamer",
+            "primaryColor": "#f17a28",
+            "secondaryColor": "#000000",
+            "letterColor": "#FFFFFF",
+            "offerDiscount": 34,
+            "id": 586367,
+            "pathJson": "julhogamer"
+          },
+          "offerStartTime": 0,
+          "priceDetails": {
+            "oldPrice": 3208.02,
+            "price": 2111,
+            "discountPrice": 1899.9,
+            "primePrice": 0,
+            "maxParcel": {
+              "parcel": 12,
+              "value": 180.49,
+              "type": "sem juros"
+            },
+            "discountPercentage": 10,
+            "discountPercentagePrime": 0,
+            "isPrime": false,
+            "savePrime": 0,
+            "discountPricePrime": 0,
+            "primeParcels": [
+            ],
+            "maxPrimeParcel": {
+            },
+            "maxCobrandedParcel": {
+              "parcel": 24,
+              "value": 109.07,
+              "type": "com juros"
+            },
+            "maxCobrandedPrimeParcel": {
+            }
+          },
+          "offerIdMarketplace": null,
+          "price": 2111,
+          "weight": 12001,
+          "weightString": "12001 gramas (bruto com embalagem)",
+          "warrantyString": "36 meses de garantia",
+          "sellerId": "kabum",
+          "sellerName": "",
+          "parcels": [
+            {
+              "parcelNumber": 1,
+              "value": 1899.9,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 2,
+              "value": 1055.5,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 3,
+              "value": 703.67,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 4,
+              "value": 527.75,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 5,
+              "value": 422.2,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 6,
+              "value": 351.83,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 7,
+              "value": 301.57,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 8,
+              "value": 263.88,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 9,
+              "value": 234.56,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 10,
+              "value": 211.1,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 11,
+              "value": 194.4,
+              "type": "sem juros"
+            },
+            {
+              "parcelNumber": 12,
+              "value": 180.49,
+              "type": "sem juros"
+            }
+          ],
+          "producer": {
+            "code": 1,
+            "name": "Asus",
+            "img": "https://images1.kabum.com.br/produtos/fabricantes/logo-asus.jpg"
+          },
+          "rating": 5,
+          "isOpenbox": false,
+          "isBlackFriday": 0,
+          "isDigital": false,
+          "ratingNumber": 105,
+          "technicalInformation": "\u003cp\u003e\u003cstrong\u003eCaracter\u0026iacute;sticas:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Marca: Asus\u003c/p\u003e\u003cp\u003e- Modelo: VG249Q\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDisplay:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Tamanho do painel: Wide Screen 23,8\" (60,5 cm) 16: 9\u003c/p\u003e\u003cp\u003e- Satura\u0026ccedil;\u0026atilde;o de cor: 72% NTSC\u003c/p\u003e\u003cp\u003e- Tipo de painel: IPS\u003c/p\u003e\u003cp\u003e- Resolu\u0026ccedil;\u0026atilde;o real : 1920 x 1080\u003c/p\u003e\u003cp\u003e- \u0026Aacute;rea de exibi\u0026ccedil;\u0026atilde;o de tela (HxV): 527,04 x 296,46 mm\u003c/p\u003e\u003cp\u003e- Superf\u0026iacute;cie de exibi\u0026ccedil;\u0026atilde;o: N\u0026atilde;o ofuscante\u003c/p\u003e\u003cp\u003e- Dist\u0026acirc;ncia entre pixels: 0,2745 mm\u003c/p\u003e\u003cp\u003e- Brilho: 250 cd/\u0026#13217; (t\u0026iacute;pico)\u003c/p\u003e\u003cp\u003e- Contraste Ratio : 1000 :1 (Tipico)\u003c/p\u003e\u003cp\u003e- \u0026Acirc;ngulo (CR \u0026#8807; 10): 178 \u0026deg; (H) / 178 \u0026deg; (V)\u003c/p\u003e\u003cp\u003e- Tempo de resposta: 1ms MPRT *\u003c/p\u003e\u003cp\u003e- Display Colors: 16,7M\u003c/p\u003e\u003cp\u003e- Flicker free\u003c/p\u003e\u003cp\u003e- Taxa de atualiza\u0026ccedil;\u0026atilde;o (m\u0026aacute;x): 144Hz\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRecurso de v\u0026iacute;deo:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- GamePlus (modos): Sim (Crosshair / Timer / FPS Counter / Display Alignment)\u003c/p\u003e\u003cp\u003e- Baixa luz azul\u003c/p\u003e\u003cp\u003e- Suporte para HDCP\u003c/p\u003e\u003cp\u003e- GameVisual: 7 modos (modos de cen\u0026aacute;rio / corrida / cinema / RTS / RPG / FPS / sRGB / sRGB / modo MOBA)\u003c/p\u003e\u003cp\u003e- FreeSync\u003c/p\u003e\u003cp\u003e- Extreme Low Motion Blur\u003c/p\u003e\u003cp\u003e- Tecnologia GameFast Input\u003c/p\u003e\u003cp\u003e- Shadow Boost\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRecursos de \u0026aacute;udio:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Alto-falantes est\u0026eacute;reo: 2 x 2W RMS est\u0026eacute;reo\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePortas de E/S:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Entrada de Sinal: HDMI, D-Sub, DisplayPort\u003c/p\u003e\u003cp\u003e- Entrada de \u0026Aacute;udio para PC: Mini-Jack de 3,5 mm\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFrequ\u0026ecirc;ncia de sinal:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Anal\u0026oacute;gico: 30 ~ 84 KHz (H) / 48 ~ 75 Hz (V)\u003c/p\u003e\u003cp\u003e- Digital: 30 ~ 180 KHz (H) / 48 ~ 144 Hz (V)\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eConsumo de energia:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Ligado (t\u0026iacute;pico): \u0026lt;16W\u003c/p\u003e\u003cp\u003e- Modo de economia de energia: \u0026lt;0,5W\u003c/p\u003e\u003cp\u003e- Modo de desligamento: \u0026lt;0,5W\u003c/p\u003e\u003cp\u003e- Tens\u0026atilde;o: 100-240V, 50 / 60Hz\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDesign mec\u0026acirc;nico:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Inclina\u0026ccedil;\u0026atilde;o: +20\u0026deg; ~ -5\u0026deg;\u003c/p\u003e\u003cp\u003e- Girat\u0026oacute;ria: +62 \u0026deg; ~ -62\u0026deg;\u003c/p\u003e\u003cp\u003e- Piv\u0026ocirc;: +90\u0026deg; ~ -90\u0026deg;\u003c/p\u003e\u003cp\u003e- Ajuste de altura: 0 ~ 150 mm\u003c/p\u003e\u003cp\u003e- Montagem na parede VESA: 100 x 100 mm\u003c/p\u003e\u003cp\u003e- Design sem moldura\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSeguran\u0026ccedil;a:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Fechadura Kensington\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDimens\u0026otilde;es (LxAxP):\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Com suporte: 540,50 x (365 ~ 515) x 217,6 mm\u003c/p\u003e\u003cp\u003e- Sem suporte: 540,50 x 325,24 x 51,67 mm\u003c/p\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eConte\u0026uacute;do da embalagem:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- 1 x Monitor Gamer Asus\u003c/p\u003e\u003cp\u003e- 1 x Cabo de alimenta\u0026ccedil;\u0026atilde;o\u003c/p\u003e\u003cp\u003e- 1 x Guia de in\u0026iacute;cio r\u0026aacute;pido\u003c/p\u003e\u003cp\u003e- 1 x Cart\u0026atilde;o de garantia\u003c/p\u003e",
+          "link": "/produto/109013/monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q",
+          "gift": null,
+          "origin": "0",
+          "originName": "",
+          "dataLayer": {
+            "visitor": {
+              "campaign": "direct",
+              "medium": "direct",
+              "source": "direct",
+              "clientEmail": "",
+              "device": "desktop"
+            }
+          },
+          "tagCanonical": "https://www.kabum.com.brundefined"
+        },
+        "catalogProduct": {
+          "code": 109013,
+          "productSpecie": 0,
+          "name": "Monitor Gamer Asus TUF 23.8' IPS, Wide, 144 Hz, Full HD, 1ms, FreeSync, HDMI/DisplayPort, Ajuste de Altura, Vesa, Som Integrado - VG249Q",
+          "description": "\u003ch2\u003eMonitor Gaming TUF Gaming VG249Q 23,8 polegadas Full HD (1920x1080), 144Hz, IPS, Extreme Low Motion Blur, Adaptive-sync, FreeSync, 1ms (MPRT)\u003c/h2\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eTUF Gaming VG249Q \u0026eacute; um monitor IPS de 23,8 polegadas,\u003cstrong\u003e Full HD (1920x1080)\u003c/strong\u003e, com taxa de atualiza\u0026ccedil;\u0026atilde;o r\u0026aacute;pida de 144Hz projetada para jogadores profissionais e jogabilidade r\u0026aacute;pida. Tamb\u0026eacute;m possui \u003cstrong\u003etempo de resposta de 1ms MPRT\u003c/strong\u003e e \u003cstrong\u003etecnologia Adaptive-Sync\u003c/strong\u003e, para jogabilidade extremamente fluida sem tearing e stuttering.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ch2\u003eTela IPS de 23,8 polegadas para amplo \u0026acirc;ngulo de visualiza\u0026ccedil;\u0026atilde;o e melhor reprodu\u0026ccedil;\u0026atilde;o de cores com tempo de Resposta de 144Hz\u003c/h2\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eO \u003cstrong\u003epainel IPS\u003c/strong\u003e de 23,8 polegadas Full HD (1920 x 1080) do TUF Gaming VG249Q oferece visuais impressionantes em amplos \u003cstrong\u003e\u0026acirc;ngulos de vis\u0026atilde;o de 178\u0026ordm;\u003c/strong\u003e, impedindo muitas distor\u0026ccedil;\u0026otilde;es e mudan\u0026ccedil;a de cor, mesmo quando voc\u0026ecirc; est\u0026aacute; visualizando de posi\u0026ccedil;\u0026otilde;es nas extremidades. O TUF Gaming VG249Q possui uma \u003cstrong\u003etaxa de atualiza\u0026ccedil;\u0026atilde;o ultra-r\u0026aacute;pida de 144Hz\u003c/strong\u003e, garantindo que mesmos jogos em ritmo acelerado, reproduzidos nas mais altas configura\u0026ccedil;\u0026otilde;es visuais, pare\u0026ccedil;am suaves e completamente livres de lags. Obtenha vantagem em jogos de tiro em primeira pessoa, corridas, estrat\u0026eacute;gia em tempo real e esportes.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ch2\u003eTecnologia Extreme Low Motion Blur e Shadow Boost\u003c/h2\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eApresenta a mais recente \u003cstrong\u003etecnologia Extreme Low Motion Blur\u003c/strong\u003e exclusiva da ASUS, que atinge 1ms MPRT para eliminar manchas e desfoque de movimento e faz com que os objetos em movimento pare\u0026ccedil;am mais n\u0026iacute;tidos, para que a jogabilidade seja mais fluida e responsiva. A \u003cstrong\u003etecnologia ASUS Shadow Boost\u003c/strong\u003e clareia \u0026aacute;reas escuras do jogo sem superexpor \u0026aacute;reas mais brilhantes, melhorando a visualiza\u0026ccedil;\u0026atilde;o geral, al\u0026eacute;m de facilitar a localiza\u0026ccedil;\u0026atilde;o de inimigos escondidos em \u0026aacute;reas escuras do mapa.\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003ch3\u003eAdquira agora o seu monitor gamer da ASUS no KaBuM!.\u003c/h3\u003e",
+          "tagDescription": "Monitor Gamer Asus LED TUF 23.8´ com resolução Full HD, HDMI e para não perder nenhuma jogada 144Hz, 1ms e FreeSync. Monitor Gamer é no KaBuM! Compre já!",
+          "weight": 12001,
+          "friendlyName": "monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q",
+          "sellerName": "KaBuM!",
+          "sellerId": 0,
+          "offerIdMarketplace": 0,
+          "category": "Computadores/Monitores/Monitor Gamer",
+          "externalUrl": "",
+          "manufacturer": {
+            "id": 1,
+            "name": "Asus",
+            "img": "https://images4.kabum.com.br/produtos/fabricantes/logo-asus.jpg"
+          },
+          "iframeUrl": "",
+          "image": "h",
+          "images": [
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_original.jpg",
+            "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_original.jpg"
+          ],
+          "price": 3208.02,
+          "primePrice": 0,
+          "primePriceWithDiscount": 0,
+          "discountPercentagePrime": 0,
+          "oldPrice": 3208.02,
+          "oldPrimePrice": 3208.02,
+          "priceWithDiscount": 2887.22,
+          "priceMarketplace": 0,
+          "discountPercentage": 10,
+          "quantity": 357,
+          "rating": 5,
+          "ratingCount": 105,
+          "available": true,
+          "preOrderDate": 0,
+          "warranty": "3 anos de garantia (33 meses de garantia contratual junto ao fabricante + 3 meses referentes à garantia legal, nos termos do artigo 26, II, do Código de Defesa do Consumidor)",
+          "dateProductArrived": null,
+          "html": "\u003cp\u003e\u003cstrong\u003eCaracter\u0026iacute;sticas:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Marca: Asus\u003c/p\u003e\r\n\u003cp\u003e- Modelo: VG249Q\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eDisplay:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Tamanho do painel: Wide Screen 23,8\" (60,5 cm) 16: 9\u003c/p\u003e\r\n\u003cp\u003e- Satura\u0026ccedil;\u0026atilde;o de cor: 72% NTSC\u003c/p\u003e\r\n\u003cp\u003e- Tipo de painel: IPS\u003c/p\u003e\r\n\u003cp\u003e- Resolu\u0026ccedil;\u0026atilde;o real : 1920 x 1080\u003c/p\u003e\r\n\u003cp\u003e- \u0026Aacute;rea de exibi\u0026ccedil;\u0026atilde;o de tela (HxV): 527,04 x 296,46 mm\u003c/p\u003e\r\n\u003cp\u003e- Superf\u0026iacute;cie de exibi\u0026ccedil;\u0026atilde;o: N\u0026atilde;o ofuscante\u003c/p\u003e\r\n\u003cp\u003e- Dist\u0026acirc;ncia entre pixels: 0,2745 mm\u003c/p\u003e\r\n\u003cp\u003e- Brilho: 250 cd/\u0026#13217; (t\u0026iacute;pico)\u003c/p\u003e\r\n\u003cp\u003e- Contraste Ratio : 1000 :1 (Tipico)\u003c/p\u003e\r\n\u003cp\u003e- \u0026Acirc;ngulo (CR \u0026#8807; 10): 178 \u0026deg; (H) / 178 \u0026deg; (V)\u003c/p\u003e\r\n\u003cp\u003e- Tempo de resposta: 1ms MPRT *\u003c/p\u003e\r\n\u003cp\u003e- Display Colors: 16,7M\u003c/p\u003e\r\n\u003cp\u003e- Flicker free\u003c/p\u003e\r\n\u003cp\u003e- Taxa de atualiza\u0026ccedil;\u0026atilde;o (m\u0026aacute;x): 144Hz\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eRecurso de v\u0026iacute;deo:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- GamePlus (modos): Sim (Crosshair / Timer / FPS Counter / Display Alignment)\u003c/p\u003e\r\n\u003cp\u003e- Baixa luz azul\u003c/p\u003e\r\n\u003cp\u003e- Suporte para HDCP\u003c/p\u003e\r\n\u003cp\u003e- GameVisual: 7 modos (modos de cen\u0026aacute;rio / corrida / cinema / RTS / RPG / FPS / sRGB / sRGB / modo MOBA)\u003c/p\u003e\r\n\u003cp\u003e- FreeSync\u003c/p\u003e\r\n\u003cp\u003e- Extreme Low Motion Blur\u003c/p\u003e\r\n\u003cp\u003e- Tecnologia GameFast Input\u003c/p\u003e\r\n\u003cp\u003e- Shadow Boost\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eRecursos de \u0026aacute;udio:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Alto-falantes est\u0026eacute;reo: 2 x 2W RMS est\u0026eacute;reo\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003ePortas de E/S:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Entrada de Sinal: HDMI, D-Sub, DisplayPort\u003c/p\u003e\r\n\u003cp\u003e- Entrada de \u0026Aacute;udio para PC: Mini-Jack de 3,5 mm\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eFrequ\u0026ecirc;ncia de sinal:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Anal\u0026oacute;gico: 30 ~ 84 KHz (H) / 48 ~ 75 Hz (V)\u003c/p\u003e\r\n\u003cp\u003e- Digital: 30 ~ 180 KHz (H) / 48 ~ 144 Hz (V)\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eConsumo de energia:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Ligado (t\u0026iacute;pico): \u0026lt;16W\u003c/p\u003e\r\n\u003cp\u003e- Modo de economia de energia: \u0026lt;0,5W\u003c/p\u003e\r\n\u003cp\u003e- Modo de desligamento: \u0026lt;0,5W\u003c/p\u003e\r\n\u003cp\u003e- Tens\u0026atilde;o: 100-240V, 50 / 60Hz\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eDesign mec\u0026acirc;nico:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Inclina\u0026ccedil;\u0026atilde;o: +20\u0026deg; ~ -5\u0026deg;\u003c/p\u003e\r\n\u003cp\u003e- Girat\u0026oacute;ria: +62 \u0026deg; ~ -62\u0026deg;\u003c/p\u003e\r\n\u003cp\u003e- Piv\u0026ocirc;: +90\u0026deg; ~ -90\u0026deg;\u003c/p\u003e\r\n\u003cp\u003e- Ajuste de altura: 0 ~ 150 mm\u003c/p\u003e\r\n\u003cp\u003e- Montagem na parede VESA: 100 x 100 mm\u003c/p\u003e\r\n\u003cp\u003e- Design sem moldura\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eSeguran\u0026ccedil;a:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Fechadura Kensington\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eDimens\u0026otilde;es (LxAxP):\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- Com suporte: 540,50 x (365 ~ 515) x 217,6 mm\u003c/p\u003e\r\n\u003cp\u003e- Sem suporte: 540,50 x 325,24 x 51,67 mm\u003c/p\u003e\r\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\r\n\u003cp\u003e\u003cstrong\u003eConte\u0026uacute;do da embalagem:\u003c/strong\u003e\u003c/p\u003e\r\n\u003cp\u003e- 1 x Monitor Gamer Asus\u003c/p\u003e\r\n\u003cp\u003e- 1 x Cabo de alimenta\u0026ccedil;\u0026atilde;o\u003c/p\u003e\r\n\u003cp\u003e- 1 x Guia de in\u0026iacute;cio r\u0026aacute;pido\u003c/p\u003e\r\n\u003cp\u003e- 1 x Cart\u0026atilde;o de garantia\u003c/p\u003e",
+          "ufsFlash": [
+          ],
+          "flags": {
+            "isMarketplace": false,
+            "isOpenbox": false,
+            "isFreeShipping": false,
+            "isFreeShippingPrime": false,
+            "isPixShipping": false,
+            "isPreOrder": false,
+            "isFlash": false,
+            "isPrime": false,
+            "isOffer": true,
+            "hasGift": false
+          },
+          "origin": {
+            "id": null,
+            "name": null
+          },
+          "prime": null,
+          "offer": {
+            "id": "586367",
+            "name": "Julho Gamer",
+            "referenceBanner": "julhogamer",
+            "endsAt": 1659351600,
+            "startsAt": 1658139600,
+            "price": 2111,
+            "priceWithDiscount": 1899.9,
+            "discountPercentage": 34,
+            "quantityAvailable": 357,
+            "hashCode": "0b1cc9813c6cbc98c12cc6729f8d699ad0066846"
+          },
+          "paymentMethodsDefault": [
+            {
+              "category": "boleto",
+              "method": "Boleto Bancário",
+              "bestInstallment": null,
+              "installments": [
+                {
+                  "id": 1,
+                  "paymentTerms": "Até 15% de desconto",
+                  "installment": 1,
+                  "amount": 1899.9,
+                  "total": 1899.9,
+                  "hasFee": false
+                }
+              ]
+            },
+            {
+              "category": "cartao",
+              "method": "Cartão de Crédito",
+              "bestInstallment": null,
+              "installments": [
+                {
+                  "id": 59,
+                  "paymentTerms": "À vista - Até 10% de desconto",
+                  "installment": 1,
+                  "amount": 1899.9,
+                  "total": 1899.9,
+                  "hasFee": false
+                },
+                {
+                  "id": 4,
+                  "paymentTerms": "2x sem juros",
+                  "installment": 2,
+                  "amount": 1055.5,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 5,
+                  "paymentTerms": "3x sem juros",
+                  "installment": 3,
+                  "amount": 703.66,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 6,
+                  "paymentTerms": "4x sem juros",
+                  "installment": 4,
+                  "amount": 527.75,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 7,
+                  "paymentTerms": "5x sem juros",
+                  "installment": 5,
+                  "amount": 422.2,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 8,
+                  "paymentTerms": "6x sem juros",
+                  "installment": 6,
+                  "amount": 351.83,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 42,
+                  "paymentTerms": "7x sem juros",
+                  "installment": 7,
+                  "amount": 301.57,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 43,
+                  "paymentTerms": "8x sem juros",
+                  "installment": 8,
+                  "amount": 263.87,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 44,
+                  "paymentTerms": "9x sem juros",
+                  "installment": 9,
+                  "amount": 234.55,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 45,
+                  "paymentTerms": "10x sem juros",
+                  "installment": 10,
+                  "amount": 211.1,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 55,
+                  "paymentTerms": "11x com juros",
+                  "installment": 11,
+                  "amount": 194.4,
+                  "total": 2138.44,
+                  "hasFee": true
+                },
+                {
+                  "id": 56,
+                  "paymentTerms": "12x com juros",
+                  "installment": 12,
+                  "amount": 180.49,
+                  "total": 2165.89,
+                  "hasFee": true
+                }
+              ]
+            },
+            {
+              "category": "paypal",
+              "method": "PayPal",
+              "bestInstallment": null,
+              "installments": [
+                {
+                  "id": 67,
+                  "paymentTerms": "PayPal",
+                  "installment": 1,
+                  "amount": 2111,
+                  "total": 2111,
+                  "hasFee": false
+                }
+              ]
+            },
+            {
+              "category": "pix",
+              "method": "PIX",
+              "bestInstallment": null,
+              "installments": [
+                {
+                  "id": 98,
+                  "paymentTerms": "À vista",
+                  "installment": 1,
+                  "amount": 1899.9,
+                  "total": 1899.9,
+                  "hasFee": false
+                }
+              ]
+            },
+            {
+              "category": "cobranded",
+              "method": "Cartão de Crédito KaBuM!",
+              "bestInstallment": null,
+              "installments": [
+                {
+                  "id": 99,
+                  "paymentTerms": "À vista - Até 10% de desconto",
+                  "installment": 1,
+                  "amount": 1899.9,
+                  "total": 1899.9,
+                  "hasFee": false
+                },
+                {
+                  "id": 101,
+                  "paymentTerms": "2x sem juros",
+                  "installment": 2,
+                  "amount": 1055.5,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 102,
+                  "paymentTerms": "3x sem juros",
+                  "installment": 3,
+                  "amount": 703.66,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 103,
+                  "paymentTerms": "4x sem juros",
+                  "installment": 4,
+                  "amount": 527.75,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 104,
+                  "paymentTerms": "5x sem juros",
+                  "installment": 5,
+                  "amount": 422.2,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 105,
+                  "paymentTerms": "6x sem juros",
+                  "installment": 6,
+                  "amount": 351.83,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 106,
+                  "paymentTerms": "7x sem juros",
+                  "installment": 7,
+                  "amount": 301.57,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 107,
+                  "paymentTerms": "8x sem juros",
+                  "installment": 8,
+                  "amount": 263.87,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 108,
+                  "paymentTerms": "9x sem juros",
+                  "installment": 9,
+                  "amount": 234.55,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 109,
+                  "paymentTerms": "10x sem juros",
+                  "installment": 10,
+                  "amount": 211.1,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 110,
+                  "paymentTerms": "11x sem juros",
+                  "installment": 11,
+                  "amount": 191.9,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 111,
+                  "paymentTerms": "12x sem juros",
+                  "installment": 12,
+                  "amount": 175.91,
+                  "total": 2111,
+                  "hasFee": false
+                },
+                {
+                  "id": 112,
+                  "paymentTerms": "13x com juros",
+                  "installment": 13,
+                  "amount": 183.49,
+                  "total": 2385.43,
+                  "hasFee": true
+                },
+                {
+                  "id": 113,
+                  "paymentTerms": "14x com juros",
+                  "installment": 14,
+                  "amount": 171.89,
+                  "total": 2406.54,
+                  "hasFee": true
+                },
+                {
+                  "id": 114,
+                  "paymentTerms": "15x com juros",
+                  "installment": 15,
+                  "amount": 161.84,
+                  "total": 2427.65,
+                  "hasFee": true
+                },
+                {
+                  "id": 115,
+                  "paymentTerms": "16x com juros",
+                  "installment": 16,
+                  "amount": 153.04,
+                  "total": 2448.76,
+                  "hasFee": true
+                },
+                {
+                  "id": 116,
+                  "paymentTerms": "17x com juros",
+                  "installment": 17,
+                  "amount": 145.28,
+                  "total": 2469.87,
+                  "hasFee": true
+                },
+                {
+                  "id": 117,
+                  "paymentTerms": "18x com juros",
+                  "installment": 18,
+                  "amount": 138.38,
+                  "total": 2490.98,
+                  "hasFee": true
+                },
+                {
+                  "id": 118,
+                  "paymentTerms": "19x com juros",
+                  "installment": 19,
+                  "amount": 132.21,
+                  "total": 2512.09,
+                  "hasFee": true
+                },
+                {
+                  "id": 119,
+                  "paymentTerms": "20x com juros",
+                  "installment": 20,
+                  "amount": 126.66,
+                  "total": 2533.2,
+                  "hasFee": true
+                },
+                {
+                  "id": 120,
+                  "paymentTerms": "21x com juros",
+                  "installment": 21,
+                  "amount": 121.63,
+                  "total": 2554.31,
+                  "hasFee": true
+                },
+                {
+                  "id": 121,
+                  "paymentTerms": "22x com juros",
+                  "installment": 22,
+                  "amount": 117.06,
+                  "total": 2575.42,
+                  "hasFee": true
+                },
+                {
+                  "id": 122,
+                  "paymentTerms": "23x com juros",
+                  "installment": 23,
+                  "amount": 112.89,
+                  "total": 2596.53,
+                  "hasFee": true
+                },
+                {
+                  "id": 123,
+                  "paymentTerms": "24x com juros",
+                  "installment": 24,
+                  "amount": 109.06,
+                  "total": 2617.64,
+                  "hasFee": true
+                }
+              ]
+            }
+          ],
+          "paymentMethodsPrime": null,
+          "photos": {
+            "p": [
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_p.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_p.jpg"
+            ],
+            "m": [
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_m.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_m.jpg"
+            ],
+            "g": [
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_g.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_g.jpg"
+            ],
+            "gg": [
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755687_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755685_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755684_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1611250372_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755683_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507850_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507851_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507854_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507852_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507853_gg.jpg",
+              "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1595507849_gg.jpg"
+            ]
+          },
+          "thumbnail": "https://images.kabum.com.br/produtos/fotos/109013/monitor-gamer-asus-tuf-gaming-led-23-8-widescreen-full-hd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-vg249q_1580755686_m.jpg",
+          "promotionBanner": null,
+          "campaignBanners": [
+          ],
+          "crossCart": [
+            96823,
+            94087,
+            129451,
+            66733,
+            109012
+          ],
+          "crossSelling": [
+          ]
+        }
+      }
+    },
+    "__N_SSP": true
+  },
+  "page": "/produto/[...slug]",
+  "query": {
+    "slug": [
+      "109013",
+      "monitor-gamer-asus-tuf-23-8-ips-wide-144-hz-full-hd-1ms-freesync-hdmi-displayport-ajuste-de-altura-vesa-som-integrado-vg249q"
+    ]
+  },
+  "buildId": "jqaKnV2ehrTd3vpEu_xbs",
+  "assetPrefix": "/core",
+  "isFallback": false,
+  "dynamicIds": [
+    56793
+  ],
+  "gssp": true,
+  "appGip": true,
+  "scriptLoader": [
+  ]
+}
